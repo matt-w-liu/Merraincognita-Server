@@ -1,0 +1,17 @@
+node_modules
+dist
+coverage
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+uploads/*
+!uploads/.gitkeep
+*.md
+.prettierrc
+vitest.config.ts
+src/tests
+*.tsbuildinfo
+.cache
+.eslintcache
